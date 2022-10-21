@@ -1,4 +1,4 @@
-# Learn best practices with this excercises
+# Learn best practices with this exercises
 This should be an intro
 
 ### Exercise 1:
